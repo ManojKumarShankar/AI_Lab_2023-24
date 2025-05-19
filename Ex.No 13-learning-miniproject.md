@@ -258,7 +258,14 @@ demo.launch()
 
 
 ### Output:
-"C:\Users\SEC\Pictures\Screenshots\Screenshot 2025-05-19 193114.png"
+![output1](https://github.com/user-attachments/assets/6a954f53-fa3e-459b-a149-c14e0d2190da)
+![output2](https://github.com/user-attachments/assets/55b10bba-8450-4a22-ab52-22e2c7272f82)
+![output3](https://github.com/user-attachments/assets/3caf2f5a-73a9-46e9-aa27-fb24f3b1ec0c)
+![output4](https://github.com/user-attachments/assets/72fbfafa-f183-4881-8c31-eea2ddb835fa)
+
+
+
+
 
 ### Result:
 The proposed performance evaluation algorithm successfully analyzed student data and predicted academic performance with high accuracy. Key influencing factors such as attendance, assignment scores, and previous academic records were identified. The evaluation model (e.g., Random Forest or Logistic Regression) achieved an accuracy of [insert percentage, e.g., 85%], demonstrating its effectiveness in classifying students into performance categories (e.g., high, medium, low). The system can be used by educational institutions to monitor student progress, identify at-risk students early, and implement targeted interventions.
